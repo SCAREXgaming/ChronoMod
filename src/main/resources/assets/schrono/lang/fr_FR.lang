@@ -1,0 +1,18 @@
+schrono.key.categories.chrono=Chronomètre
+
+schrono.key.playKey=Lancer/mettre en pause le chronomètre
+schrono.key.showKey=Montrer/cacher le chronomètre
+
+
+schrono.button.config=Configurer le chronomètre
+schrono.button.config.back=Retour
+schrono.button.config.center=%sCentrer le chronomètre
+schrono.button.config.reset=Paramètres par défault
+schrono.text.config.running=%sCouleur du chronomètre lorsqu'il tourne :§r
+schrono.text.config.paused=%sCouleur du chronomètre lorsqu'il est en pause :§r
+
+
+schrono.command.chrono.usage=/chrono <start|pause|reset> ou /chrono switch [heures] [minutes] [secondes]
+
+
+schrono.update.found=%sNouvelle mise à jour trouvée : %s (%s)§r

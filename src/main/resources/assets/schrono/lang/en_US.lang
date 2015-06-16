@@ -1,0 +1,18 @@
+schrono.key.categories.chrono=Chronometer
+
+schrono.key.playKey=Play/pause the chronometer
+schrono.key.showKey=Show/hide the chronometer
+
+
+schrono.button.config=Configure the chronometer
+schrono.button.config.back=Back
+schrono.button.config.center=%sCenter the chronometer
+schrono.button.config.reset=Reset settings
+schrono.text.config.running=%sColor while the chronometer is running :§r
+schrono.text.config.paused=%sColor while the chronometer is paused :§r
+
+
+schrono.command.chrono.usage=/chrono <start|pause|reset> or /chrono switch [hours] [minutes] [seconds]
+
+
+schrono.update.found=%sNew update found : %s (%s)§r

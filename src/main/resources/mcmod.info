@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SChrono",
+  "name": "SCAREX Chrono",
+  "description": "This is a mod that adds a chrono",
+  "version": "1.3c",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SCAREX"],
+  "credits": "Forge & FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
